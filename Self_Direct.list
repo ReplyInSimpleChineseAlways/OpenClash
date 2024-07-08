@@ -1,0 +1,7 @@
+# 内容：自定义直连列表
+# 域名关键字匹配
+DOMAIN-KEYWORD,shoogure
+DOMAIN-KEYWORD,figurebest
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,sg.com
